@@ -1,2 +1,1 @@
-# lap-trinh-web-voi-php
-Lập trình Web với PHP
+Dự án đầu tiên với PHP
